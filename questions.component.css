@@ -1,0 +1,27 @@
+.postcard{
+    max-width: 500px;
+    margin:auto;
+    padding: 10px;
+    align: center;
+    text-align: center;
+}
+.foot
+{
+    background-color: cyan;
+    text-align: center;
+
+}
+.head
+{
+    background-color: rgb(123,231,43);
+    text-align: center;
+}
+.footbutton
+{
+    text-align: left;
+
+}
+.navigate{
+    float:left;
+    margin:10px;
+}
